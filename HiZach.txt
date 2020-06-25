@@ -1,3 +1,22 @@
-Good Morning Zach!
+<html>
+<head>
+<title>Good Morning Zach!</title>
+</head>
+<style>
+code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+</style>
+</head>
+<body>
 
-Chest Day!
+<p style="font-size:30px">Chest Day!</p>
+
+<img src="https://www.shutterstock.com/image-vector/cute-panda-bear-character-fitness-set-737863471" alt="Workout Panda" width="500" height="600">
+
+</body>
+</html>
