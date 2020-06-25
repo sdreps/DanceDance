@@ -1,6 +1,6 @@
 <html>
 
-  <body>
+<body>
   <h1>Good Morning Zach!</h1>
 
   <p style="font-size:30px">Chest Day!</p>
