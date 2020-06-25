@@ -1,16 +1,7 @@
 <html>
 
   <body>
-  <h1>Good Morning Zach!<.h1>
-  <style>
-  code {
-  font-family: Consolas,"courier new";
-  color: crimson;
-  background-color: #f1f1f1;
-  padding: 2px;
-  font-size: 105%;
-  }
-
+  <h1>Good Morning Zach!</h1?
 
   <p style="font-size:30px">Chest Day!</p>
 
