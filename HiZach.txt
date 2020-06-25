@@ -1,7 +1,7 @@
 <html>
-<head>
-<title>Good Morning Zach!</title>
-</head>
+
+<body>
+<h1>Good Morning Zach!<.h1>
 <style>
 code {
   font-family: Consolas,"courier new";
@@ -10,13 +10,11 @@ code {
   padding: 2px;
   font-size: 105%;
 }
-</style>
-</head>
-<body>
+
 
 <p style="font-size:30px">Chest Day!</p>
 
 <img src="https://www.shutterstock.com/image-vector/cute-panda-bear-character-fitness-set-737863471" alt="Workout Panda" width="500" height="600">
-
+</style>
 </body>
 </html>
