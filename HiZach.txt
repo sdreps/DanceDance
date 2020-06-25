@@ -3,7 +3,6 @@
 <body>
   <h1>Good Morning Zach!</h1>
   <p>Chest Day!</p>
-  < img src="https://www.shutterstock.com/image-vector/cute-panda-bear-character-fitness-set-737863471" alt="Workout Panda" width="500" height="600">
 </body>
 
 </html>
